@@ -1,1 +1,0 @@
-1.0.1 http://chasoft.uk/alexandria.gif /ctgp102plus/debug/success.gif debug
